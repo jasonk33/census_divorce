@@ -1,0 +1,12 @@
+AGE - person's age, can be between 0 and 125
+AGE_SP - spouse's age, can be between 0 and 125
+MARRNO - number of times person has been married, 1 for once, 2 for twice, 3 for three of more
+MARRNO_SP - number of times spouse has been married, 1 for once, 2 for twice, 3 for three of more
+EMPSTAT - person's employment status, 1 for employed, 2 for unemployed, 3 for not in labor force
+EMPSTAT_SP - spouse's employment status, 1 for employed, 2 for unemployed, 3 for not in labor force
+INCTOT - person's total income in US dollars
+INCTOT_SP - spouse's total income in US dollars
+YEARS_MARRIED - number of years the couple has been married
+NCHILD - number of children the person has, can be between 0 and 9 (where 9 is 9+)
+FERTYR - whether the person gave birth to a child in the last year, 1 if no, 2 if yes, 0 if N/A (person is a man)
+FAMSIZE - number of people in the person's family living in the house, can be between 2 and 16
